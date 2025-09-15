@@ -1,7 +1,7 @@
 # 💫 About Me:
 <b>Full-Stack Developer | AI Explorer | Performance Enthusiast</b>
 
-<br>👋 Hi, I’m <b>Ali Shah</b>, a <b>Full-Stack Developer</b> specializing in <b>high-performance, scalable web applications</b> and <b>AI-powered solutions</b>.
+<br>👋 Hi, I’m <b>Ali Shah</b>, a <b>Full-Stack Developer</b> with over 4 years of experience specializing in <b>high-performance, scalable web applications</b> and <b>AI-powered solutions</b>.
 
 <br>💻 My expertise spans modern frontend and backend technologies, with a strong focus on <b>performance optimization</b>, <b>clean architecture</b>, and <b>user-centric design</b>.
 
