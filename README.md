@@ -1,5 +1,13 @@
 # 💫 About Me:
-Full-Stack Developer | AI Explorer | Performance Enthusiast<br><br>👋 Hi, I’m Ali Shah, a Full-Stack Developer specializing in building high-performance, scalable web applications and AI-driven solutions.<br><br>💻 My expertise spans modern frontend and backend technologies, with a strong focus on performance optimization, clean architecture, and user-centric design.<br><br>🤖 I am particularly interested in Generative AI (GenAI) and its applications in creating intelligent, next-generation software products.<br><br>
+<b>Full-Stack Developer | AI Explorer | Performance Enthusiast</b>
+
+<br>👋 Hi, I’m <b>Ali Shah</b>, a <b>Full-Stack Developer</b> specializing in <b>high-performance, scalable web applications</b> and <b>AI-powered solutions</b>.
+
+<br>💻 My expertise spans modern frontend and backend technologies, with a strong focus on <b>performance optimization</b>, <b>clean architecture</b>, and <b>user-centric design</b>.
+
+<br>🤖 I’m particularly passionate about <b>Generative AI (GenAI)</b> and its applications in building intelligent, next-generation software products.
+
+<br>📂 <b>Bio</b>: With experience in both <b>frontend</b> and <b>backend</b> development, I enjoy bridging the gap between <b>design</b> and <b>engineering</b>, and leveraging <b>AI</b> to build impactful, real-world solutions.
 
 
 ## 🌐 Socials:
